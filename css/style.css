@@ -1,0 +1,39 @@
+#dear {
+    height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb3RiYWxsfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+
+#aim {
+    height: 100vh;
+    background-color: red;
+}
+
+.foot {
+    height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1459865264687-595d652de67e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vdGJhbGx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lass {
+    background-color: green;
+}
+
+.mainheader {
+    text-align: center;
+}
+ 
+.navigationbar >ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+}
+
+.navigationbar >ul >li {
+    border: 2px solid black;
+    padding: 7px;
+    border-radius: 45%;
+    list-style-type: none;
+}
